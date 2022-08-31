@@ -1,12 +1,1 @@
-
-l
-
-
-
-
-
-
-
-
-
-
+shell basics
